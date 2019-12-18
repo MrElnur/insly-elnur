@@ -2,7 +2,7 @@
 <meta name="description" content="">
 <meta name="author" content="Elnur">
 
-<title>Super Cool Layouts</title>
+<title>Insly test</title>
 
 <!-- load bootstrap from a cdn -->
 <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" rel="stylesheet">

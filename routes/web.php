@@ -29,6 +29,11 @@ Route::get('/binaryString', function()
 {
     return View::make('pages.binary');
 });
+Route::get('/data', function()
+{
+    return View::make('pages.data');
+});
+
 Route::get('/source', function()
 {
     return View::make('pages.source');
